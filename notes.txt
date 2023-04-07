@@ -1,0 +1,7 @@
+django-admin createproject projectname
+py manage.py startapp appname
+
+created base model which is treated as a class using meta vala something
+then created different apps and then one main templates vala folder 
+jisko settings.py me os path se daal diya
+
